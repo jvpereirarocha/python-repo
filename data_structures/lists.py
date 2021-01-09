@@ -52,3 +52,7 @@ print("Numbers: ", numbers)
 # Sorting the list
 names.sort(reverse=False) # If is true, then the order is reversed
 print("Sorting the list name: ", names) #alphabetical order
+
+# Cleaning the list
+names_two.clear() # Cleaning the list
+print("Names two: ", names_two)
